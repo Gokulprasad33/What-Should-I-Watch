@@ -22,7 +22,7 @@
   <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_preview_2.png?raw=true" width="300" height="650"/>
   <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_preview_1.png?raw=true" width="300" height="650"/>
 </p>
----
+
 
 ## 🚀 Features
 
