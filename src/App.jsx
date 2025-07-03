@@ -154,7 +154,7 @@ function Header() {
         {/* Title */}
         <button onClick={()=>navigate('/')}>
           <h1 className="text-2xl font-bold text-center sm:text-left w-full sm:w-auto flex items-center">
-            🎬 What Should I Watch
+            🎬 Movie Finder
             <span className="text-xs bg-red-500 text-white px-3 py-1 rounded-full ml-3">Beta</span>
           </h1>
         </button>
@@ -620,7 +620,7 @@ function Nav() {
     return (
       <footer className="bg-zinc-900 text-gray-400 py-6 text-center px-4">
         <div className="max-w-4xl mx-auto">
-          <p>© 2025 What Should i Watch. Built with ❤️ By <a href="https://github.com/Gokulprasad33" target="_blank" rel="noopener noreferrer"><strong>Gokul</strong></a></p>
+          <p>© 2025 Movie Finder. Built with ❤️ By <a href="https://github.com/Gokulprasad33" target="_blank" rel="noopener noreferrer"><strong>Gokul</strong></a></p>
         </div>
       </footer>
     );
