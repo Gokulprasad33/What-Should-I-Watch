@@ -8,15 +8,19 @@ Perfect for times when you just can’t decide!
 
 ## 📸 Screenshots
 ## Home page
-![batman_example](https://github.com/user-attachments/assets/73f6b186-205f-406e-b07f-1a40f5894ba0)
-## Movie Overview
-![screenshot_1751511219](https://github.com/user-attachments/assets/e263f423-1d63-497e-bc6b-fad1428badda)
+
 ![landing_page](https://github.com/user-attachments/assets/a580ab35-2256-4fb9-96e5-842b9f836758)
 
-## Mobile
-![mobile_1](https://github.com/user-attachments/assets/ae54d2bd-4059-43ec-85c4-dbe16579e232)
-![mobile_2](https://github.com/user-attachments/assets/47727330-118d-48c5-b98b-f79faae61188)
+## Movie Overview
 
+![batman_example](https://github.com/user-attachments/assets/73f6b186-205f-406e-b07f-1a40f5894ba0)
+![screenshot_1751511219](https://github.com/user-attachments/assets/e263f423-1d63-497e-bc6b-fad1428badda)
+
+## Mobile
+<p align="center">
+  <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_1.png?raw=true" width="300"/>
+  <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_2.png?raw=true" width="300"/>
+</p>
 ---
 
 ## 🚀 Features
