@@ -1,6 +1,7 @@
 # 🎬 Movie Finder
+[Preview](https://movies.nuxt.space](https://6865fcfc2010220008884f4a--whatshouldiwatchnow.netlify.app/)
 
-## A simple, fun web app to help you decide *what movie to watch next!*  
+## 🍿 A simple, fun web app to help you decide *what movie to watch next!*  
 
 ### Pick your genre, language, rating preference and get a recommendation.  
 ### Perfect for times when you just can’t decide!!!
