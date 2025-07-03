@@ -1,6 +1,6 @@
 # 🎬 Movie Finder
 
-Live Preview :https://6865fcfc2010220008884f4a--whatshouldiwatchnow.netlify.app/
+Live Preview :[whatshouldiwatchnow.netlify.app](https://6865fcfc2010220008884f4a--whatshouldiwatchnow.netlify.app/)
 
 ## 🍿 A simple, fun web app to help you decide *what movie to watch next!*  
 
