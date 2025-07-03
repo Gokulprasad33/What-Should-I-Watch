@@ -7,13 +7,15 @@ Perfect for times when you just can’t decide!
 ---
 
 ## 📸 Screenshots
+## Home page
+![batman_example](https://github.com/user-attachments/assets/73f6b186-205f-406e-b07f-1a40f5894ba0)
+## Movie Overview
+![screenshot_1751511219](https://github.com/user-attachments/assets/e263f423-1d63-497e-bc6b-fad1428badda)
+![landing_page](https://github.com/user-attachments/assets/a580ab35-2256-4fb9-96e5-842b9f836758)
 
-![Alt Text](https://raw.githubusercontent.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/landing_page.png)
-![Alt Text](https://raw.githubusercontent.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/screenshot_1751511219.png)
-![Alt Text](https://raw.githubusercontent.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_1.png)
-![Alt Text](https://raw.githubusercontent.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_2.png)
-
-
+## Mobile
+![mobile_1](https://github.com/user-attachments/assets/ae54d2bd-4059-43ec-85c4-dbe16579e232)
+![mobile_2](https://github.com/user-attachments/assets/47727330-118d-48c5-b98b-f79faae61188)
 
 ---
 
