@@ -18,8 +18,8 @@ Perfect for times when you just can’t decide!
 
 ## Mobile
 <p align="center">
-  <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_1.png?raw=true" width="300" height="750"/>
-  <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_2.png?raw=true" width="300" height="750"/>
+  <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_1.png?raw=true" width="300" height="650"/>
+  <img src="https://github.com/Gokulprasad33/What-Should-I-Watch/blob/main/Sreenshots/mobile_2.png?raw=true" width="300" height="650"/>
 </p>
 ---
 
