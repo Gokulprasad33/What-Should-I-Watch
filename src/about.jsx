@@ -35,7 +35,7 @@ function AboutLayout() {
         {/* Title */}
         <button onClick={()=>navigate('/')}>
           <h1 className="text-2xl font-bold text-center sm:text-left w-full sm:w-auto flex items-center">
-            🎬 What Should I Watch
+            🎬 Movie Finder
             <span className="text-xs bg-red-500 text-white px-3 py-1 rounded-full ml-3">Beta</span>
           </h1>
         </button>
