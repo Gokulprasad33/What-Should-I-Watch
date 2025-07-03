@@ -186,7 +186,6 @@ function Header() {
 
 function Nav() {
   const navigate = useNavigate();
-  console.log('App loaded!!!');
   return (
     <nav className="hidden sm:flex flex-row gap-6 text-lg text-right">
       <button onClick={()=>navigate('/about')} className="hover:underline">About</button>
