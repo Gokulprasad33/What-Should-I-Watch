@@ -1,8 +1,8 @@
-# 🎬 Movie Suggester
+# 🎬 Movie Finder
 
-A simple, fun web app to help you decide *what movie to watch next!*  
+**A simple, fun web app to help you decide *what movie to watch next!*  
 Pick your genre, language, rating preference and get a recommendation.  
-Perfect for times when you just can’t decide!
+Perfect for times when you just can’t decide!**
 
 ---
 
