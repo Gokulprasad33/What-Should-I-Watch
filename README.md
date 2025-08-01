@@ -1,6 +1,6 @@
 # 🎬 Movie Finder
 
-Live Preview :[whatshouldiwatchnow.netlify.app](https://6865fcfc2010220008884f4a--whatshouldiwatchnow.netlify.app/)
+Live Preview :[whatshouldiwatchnow.netlify.app](https://688d13206edca3000884c647--whatshouldiwatchnow.netlify.app/)
 
 ## 🍿 A simple, fun web app to help you decide *what movie to watch next!*  
 
@@ -133,8 +133,8 @@ Click Deploy
 
 | Make sure the frontend is pointing to the deployed backend's URL.
 
-## 📝 TODO
-
+## 📝 TODO 
+- [ ] 🚀 Add preloading feature for image fetching
 - [ ] 💾 Add persistent watchlist using `localStorage` or backend DB
 - [ ] 💾 Add cloud storage for User
 - [ ] 🎨 Improve UI/UX for mobile screens
