@@ -28,7 +28,7 @@ function SurpriseMeLayout() {
   const [blockedMovies,setBlockedMovies] = useState([])
   const [watchList,setWatchList] = useState([])
   const [showMovieDetail,setshowMovieDetail] = useState(false)   
-  
+  const [showServerStatus,setServerStatus]=useState(false)
   let blockId=0;
   let watchListId=0;
 
@@ -142,6 +142,33 @@ function SurpriseMeLayout() {
     handleCard();
   }
 }, [cardNum, data]); // Run every time cardNum or data changes
+
+
+useEffect(()=>{
+  const url=import.meta.env.VITE_RENDER_BACKEND_LINK;
+  const initiate=async() =>{
+    try {
+      const response =await fetch(`${url}/api/initiate`, {
+        method:"POST",
+        headers:{
+          "Content-Type": "application/json"
+        }
+      });
+      const Status=await response.json();
+      console.log("Status response:", Status);
+      if(Status.status === true) {
+        setServerStatus(true);
+      }else{
+        setServerStatus(false);
+      }
+    }catch(error) {
+      setServerStatus(false);
+    }
+  };
+
+  initiate();
+}, []);
+
 
 const language_map = {ta: 'Tamil',en: 'English',ko: 'Korean',ja: 'Japanese',hi: 'Hindi',it: 'Italian',pt: 'Portuguese',es: 'Spanish',zh: 'Chinese',lv: 'Latvian',fr: 'French',tr: 'Turkish',ru: 'Russian',ar: 'Arabic',sv: 'Swedish',de: 'German',da: 'Danish',fa: 'Persian',th: 'Thai',hu: 'Hungarian',bn: 'Bengali',pl: 'Polish',nl: 'Dutch',el: 'Greek',sr: 'Serbian',te: 'Telugu',uk: 'Ukrainian',id: 'Indonesian',ro: 'Romanian',no: 'Norwegian',cs: 'Galician',ga: 'Irish Gaelic',bs: 'Bosnian',fi: 'Finnish',is: 'Icelandic',ml: 'Malayalam',la: 'Latin',tn: 'Tswana',km: 'Khmer',he: 'Hebrew',eu: 'Basque',lt: 'Lithuanian'};
 
