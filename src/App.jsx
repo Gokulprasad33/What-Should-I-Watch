@@ -52,11 +52,11 @@ function SurpriseMeLayout() {
     setLoading(true)
     setShowError(false)
     if (
-      userPreference.genre === "" &&
-      userPreference.language === "" &&
+      userPreference.genre === "" ||
+      userPreference.language === "" ||
       userPreference.year === ""
     ){
-      setErrorMessage("Choose your options ! ! !")
+      setErrorMessage("Choose all the options ! ! !")
       setShowError(true);
       setLoading(false)
       return;
