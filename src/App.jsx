@@ -65,8 +65,7 @@ function SurpriseMeLayout() {
     try{
       setLoading(true)
       // Sending request
-      const backend_url=import.meta.env.VITE_RENDER_BACKEND_LINK;
-      const response = await fetch(`${backend_url}/api/suggest-a-movie`, { 
+      const response = await fetch(`/api/suggest-a-movie`, {
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -145,10 +144,9 @@ function SurpriseMeLayout() {
 
 
 useEffect(()=>{
-  const url=import.meta.env.VITE_RENDER_BACKEND_LINK;
   const initiate=async() =>{
     try {
-      const response =await fetch(`${url}/api/initiate`, {
+      const response =await fetch(`/api/initiate`, {
         method:"POST",
         headers:{
           "Content-Type": "application/json"
